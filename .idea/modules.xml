@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JLox.iml" filepath="$PROJECT_DIR$/JLox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/lox/lox.iml" filepath="$PROJECT_DIR$/src/lox/lox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/tool/tool.iml" filepath="$PROJECT_DIR$/src/tool/tool.iml" />
+    </modules>
+  </component>
+</project>
